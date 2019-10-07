@@ -2,11 +2,13 @@
 <h1 align="center"> Chrome Hacks </h1>
 
 <p align="center"
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs">
+    <a href="https://github.com/mudassar045/gHacks">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs">
+  </a>
 </p>
 
 ## Welcome to Google Chrome Hacks
 
 <br/>
 
-[:arrow_up: Back to top](#-google-chrome-hacks-)
+[:arrow_up: Back to top](#-chrome-hacks-)
