@@ -9,6 +9,7 @@
 
 ## Welcome to Google Chrome Hacks
 
-<br/>
+1. Hacks by [Mudassar](./mudassar.md)
 
+<br/>
 [:arrow_up: Back to top](#-chrome-hacks-)
