@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hacks by <a href="https://github.com/mudassar045" target="_blank">Mudassar</a></h1>
+<h1 align="center"> Hacks by <a href="https://github.com/mudassar045">Mudassar</a></h1>
 
 Here's the list of [gHacks](./README.md) which I used the most.
 
@@ -34,7 +34,7 @@ Do you oftent take `screenshort` to share something with others, here's how you 
 - Open chrome browser `console`
 - Press combination `CTRL` + `SHIFT` + `P`
 - Type action `Screenshot`
-- Select the disered option for capturing screen ()
+- Select the desired option for capturing screen ()
 - Captured screenshot will be downloaded with `.png` extension 🥳
 
 <br/>
