@@ -34,8 +34,22 @@ Do you oftent take `screenshort` to share something with others, here's how you 
 - Open chrome browser `console`
 - Press combination `CTRL` + `SHIFT` + `P`
 - Type action `Screenshot`
-- Select the desired option for capturing screen ()
+- Select the desired option for capturing screen
 - Captured screenshot will be downloaded with `.png` extension 🥳
+
+### Toogle Web Page btw Screen and Print Mode
+
+Most websites present on Internet provide `print` and `web` views
+
+- Open chrome browser `console`
+- Press combination `CTRL` + `SHIFT` + `P`
+- Type action `Rendering`
+- Will open `Drawer` for rendering options
+- Look for `Emulate CSS media`
+- Select option among `No emulation`, `print` and `screen` (by default: screen)
+- Hurrah! 🥳
+
+> It will help you to create **print** views in `inspect element mode` more effiently
 
 <br/>
 
