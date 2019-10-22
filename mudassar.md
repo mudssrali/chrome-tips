@@ -39,7 +39,7 @@ Do you oftent take `screenshort` to share something with others, here's how you 
 
 ### Toogle Web Page btw Screen and Print Mode
 
-Most websites present on Internet provide `print` and `web` views
+Most websites present on internet provide both `print` and `web` views
 
 - Open chrome browser `console`
 - Press combination `CTRL` + `SHIFT` + `P`
@@ -49,7 +49,7 @@ Most websites present on Internet provide `print` and `web` views
 - Select option among `No emulation`, `print` and `screen` (by default: screen)
 - Hurrah! 🥳
 
-> It will help you to create **print** views in `inspect element mode` more effiently
+> It will help you to create **print** views in `inspect element mode` more efficiently
 
 <br/>
 
