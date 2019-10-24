@@ -10,6 +10,7 @@
 ## Welcome to Google Chrome Hacks
 
 1. Hacks by [Mudassar Ali](./mudassar.md)
+2. Hacks by [Ali Ahmad](./aliahmad.md)
 
 <br/>
 
