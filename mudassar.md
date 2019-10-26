@@ -1,7 +1,7 @@
 
-<h1 align="center"> Hacks by <a href="https://github.com/mudassar045">Mudassar</a></h1>
+<h1 align="center"> Tips by <a href="https://github.com/mudassar045">Mudassar</a></h1>
 
-Here's the list of [gHacks](./README.md) which I used the most.
+Here's the list of [Chrome Tips](./README.md) which I used the most:
 
 ### DevTools' Dark Mode
 
