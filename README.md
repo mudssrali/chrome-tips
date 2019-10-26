@@ -12,6 +12,8 @@
 1. Tips added by [Mudassar Ali](./mudassar.md)
 2. Tips added by [Ali Ahmad](./aliahmad.md)
 
+**Note**: Please read [contributing](./CONTRIBUTING.md) if you want to contribute
+
 <br/>
 
 [:arrow_up: Back to top](#-chrome-tips-)
