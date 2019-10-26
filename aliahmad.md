@@ -1,3 +1,5 @@
+<h1 align="center"> Tips by <a href="https://github.com/raoaliahmad">Ali Ahmad</a></h1>
+
 ### Avoid Tracking with incognito Mode
 When you go Incognito, your browser doesn't keep track of browsing history, nor will it store any browsing cookies.
 - To open an incognito window in Chrome.
