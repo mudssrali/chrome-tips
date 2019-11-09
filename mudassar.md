@@ -51,6 +51,20 @@ Most websites present on internet provide both `print` and `web` views
 
 > It will help you to create **print** views in `inspect element mode` more efficiently
 
+### Notepad in browser
+
+Just type the following link in URL field of browser and watch the magic.
+
+```html
+data:text/html <html contenteditable style="color: white; background:black;">
+```
+
+If you want console.log
+
+```html
+data:text/html,<html contenteditable style="color: white; background:black;" oninput="console.log('data:text/html,'+this.outerHTML)">
+```
+
 <br/>
 
 [:arrow_up: Back to top](#-hacks-by-mudassar-)
